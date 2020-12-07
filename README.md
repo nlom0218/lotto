@@ -1,0 +1,2 @@
+# lotto
+ making lotto num 
